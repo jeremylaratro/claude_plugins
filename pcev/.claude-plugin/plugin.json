@@ -1,0 +1,21 @@
+{
+  "name": "pcev",
+  "version": "2.0.0",
+  "description": "Plan-Critique-Execute-Verify development pipeline with cross-verification, parallel work streams, and remediation loops",
+  "author": {
+    "name": "Jay",
+    "email": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "pcev",
+    "feature-development",
+    "workflow",
+    "cross-verification",
+    "parallel-execution",
+    "orchestration",
+    "planning",
+    "requirements",
+    "implementation"
+  ]
+}
